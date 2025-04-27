@@ -2,9 +2,9 @@
 
 The **General Coding Standards** for the Structured AI Collaboration Framework (SACF) are built upon a deep analysis and critical review of globally recognized coding practices from leading projects, including:
 
-- **Google Engineering Practices**  
-- **Mozilla Coding Guidelines**  
-- **Linux Kernel Coding Style**  
+- **Google Engineering Practices**
+- **Mozilla Coding Guidelines**
+- **Linux Kernel Coding Style**
 - **Airbnb JavaScript Style Guide**
 
 While each of these sources offers specialized emphasis on code quality, readability, security, and scalability, SACF adapts and expands these foundations to meet the unique demands of **structured, ethical, and language-independent human-AI collaboration**.
