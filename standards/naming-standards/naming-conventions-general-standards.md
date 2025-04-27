@@ -78,4 +78,4 @@ Choose names carefully and apply these standards consistently.
 
 This document is stored at:
 ```bash
-/docs/standards/naming-conventions-general-standards.md
+standards\naming-standards\naming-conventions-general-standards.md
